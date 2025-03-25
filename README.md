@@ -39,7 +39,7 @@ Este sistema representa un ejemplo básico del uso de **Internet de las Cosas (I
 ### Carga del Código
 1. **Clonar este repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/sensor-gas-arduino.git
+   git clone https://github.com/LeoSanchezH/sensor-gas-arduino.git
    cd sensor-gas-arduino
    ```
 2. **Abrir el código en el IDE de Arduino**.
