@@ -7,7 +7,8 @@
 Este proyecto implementa un sistema de detección de gas utilizando un sensor analógico conectado a un microcontrolador Arduino. El sistema genera alertas visuales y sonoras cuando se detecta una concentración peligrosa de gas, activando LEDs, un buzzer y mostrando mensajes en una pantalla LCD. Además, se ha integrado un motor para la activación de un mecanismo de ventilación en caso de emergencia.
 
 Este sistema representa un ejemplo básico del uso de **Internet de las Cosas (IoT)** en seguridad, permitiendo la interconexión de sensores y actuadores para responder automáticamente a eventos críticos.
-
+En este link podrás encontrar un ejemplo funcional del sensor
+https://www.tinkercad.com/things/bzyEhnVSkkY-iot-project-of-detector-de-fugas-de-gas-con-pantalla?sharecode=v1VPt68j8D3N9Fc7CbQMshgZ8MX0ZZxazzVMXvqad7c
 ## Características
 - **Sensor de gas**: Detecta niveles peligrosos de gases inflamables.
 - **Alerta visual y sonora**:
